@@ -73,7 +73,7 @@
 ### 报名流程
 
 - **Step01**：Fork 本仓库
-- **Step02**：复制 Template.md 创建你的个人笔记文件，并根据文档指引填写你的信息，并将文件重命名为你的 GitHub ID：`YourGitHubID.md`
+- **Step02**：复制 Template.md 创建你的个人笔记文件，并根据文档指引填写你的信息，并将文件重命名为你的 GitHub ID：`YourGitHubID.md`, **注意要把你的文件放在对应的小组文件夹内哦, 不要直接放在根目录**
 - **Step03**：创建一个 PR 到当前仓库，本共学助教会对你的 PR 进行 review，review 通过后，你的 PR 会被 merge 到 main 分支，这个时候你会收到邀请加入这个仓库 contribution 的邮件，接受邀请后，你会自动获得 main 分支的 push 权限
 - **Step04**：完成以上三个步骤，恭喜你报名成功，后续就可以将你的学习记录直接 push 到 main 分支进行更新
 
