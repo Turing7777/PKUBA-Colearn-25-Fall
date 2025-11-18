@@ -4,7 +4,7 @@
 
 无论你是刚刚入门，还是已经对链上交易有所了解，这次教程都将带你完整走一遍在 Ethereum Sepolia 测试网部署智能合约的全过程。别担心，参考我们 5 分钟的视频教程, 全过程记录 https://drive.google.com/file/d/1KR5z9tDojekU1tELceUtHj3HwMlQxFRb/view?usp=drive_link
 
-🎯 目标：在 Ethereum Sepolia 测试网上部署一个属于你自己的智能合约，并提交合约地址（contract address）和交易哈希（tx hash）。
+🎯 目标：在 Ethereum Sepolia 测试网上部署一个属于你自己的智能合约，并与该合约交互。
 
 📌 准备工作：
 1️⃣ 安装并配置好 MetaMask 钱包
