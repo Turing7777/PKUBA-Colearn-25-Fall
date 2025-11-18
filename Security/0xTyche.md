@@ -59,10 +59,19 @@ Routescan verification successful.
 https://testnet.routescan.io/address/0xA7120Cc8D48F4053c2eb0BaBb449d20f2Ab9Af49/contract/11155111/code
 ```
 
+Part II - 智能合约编写
+
+题目：通过编写智能合约与靶子合约交互，获取 Flag 并触发 ChallengeCompleted 事件。
+
+https://sepolia.etherscan.io/address/0x4a6C0c0dc8bD8276b65956c9978ef941C3550A1B#code
+
+根据查看合约代码，可以知道hint函数所给的暗示是"keccak PKUBlockchain"，后续还是尽量按照题目要求逐步完成。
+
+
 
 ### 2025.07.11
 
-笔记内容
+
 
 ### 2025.07.12
 
