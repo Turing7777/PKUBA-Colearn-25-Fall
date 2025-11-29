@@ -16,10 +16,12 @@ timezone: UTC+8
 
 <!-- Content_START -->
 
-### 2025.07.11
+### 2025.11.17
 
-笔记内容
+部署一个智能合约HelloWeb3
 
-### 2025.07.12
+### 2025.11.24
+Solidity语言
+
 
 <!-- Content_END -->
